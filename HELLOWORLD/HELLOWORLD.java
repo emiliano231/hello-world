@@ -7,9 +7,12 @@
  */
 public class HELLOWORLD
 {
-    public void main(String[] args); 
+    public static void main(String[] args)
     {
-        
+        System.out.print("ABC 123");
+	System.out.println(" mic check");
+	System.out.print("good Bye People");
     }
+}
     
      
